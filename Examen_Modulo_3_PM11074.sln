@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Examen_Modulo_3_PM11074", "Examen_Modulo_3_PM11074\Examen_Modulo_3_PM11074.dtproj", "{988B7D88-DB6C-46E9-A174-148DF04D8C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988B7D88-DB6C-46E9-A174-148DF04D8C80}.Development|Default.ActiveCfg = Development
+		{988B7D88-DB6C-46E9-A174-148DF04D8C80}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E046B6FF-11A3-48AB-8309-3F4156853344}
+	EndGlobalSection
+EndGlobal
